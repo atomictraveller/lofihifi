@@ -1,12 +1,12 @@
 # lofihifi
 
 you can download the .exe and the example.dat and hifi your files immediately..
-options > open data, load example.dat (previously trained data file)
-file > open wav recorded from riffusion to enhance
-options > apply hifi
+options > open data, load example.dat (previously trained data file)\n
+file > open wav recorded from riffusion to enhance\n
+options > apply hifi\n
 file > save wav (or spacebar to play)
 
-you can train data on your own full spectrum audio files..
+you can train data on your own full spectrum audio files..<br>
 i recommend combining full program audio with some single voice instruments to train simple phase relations -
 file > open wav you want to train with
 options > new data
