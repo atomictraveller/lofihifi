@@ -1,6 +1,6 @@
 # lofihifi
 
-you can download the .exe and the example.dat and hifi your files immediately -
+you can download the .exe and the example.dat and hifi your files immediately..
 options > open data, load example.dat (previously trained data file)
 file > open wav recorded from riffusion to enhance
 options > apply hifi
