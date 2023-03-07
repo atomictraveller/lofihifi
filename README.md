@@ -12,7 +12,7 @@ file > open wav you want to train with<br>
 options > new data<br>
 options > train (for a few epochs. remember to save your data if you like it)<br>
 
-i will be (hopefully) improving the model in the next weeks. at that time, the model will be different and previous .dat files will not be compatible, but itm you can get some jangly high frequencies out of your riffusion recordings to EQ. i doubt the quality will ever be super good but we'll see how far i can get with this technique.
+right now the model trains pretty fast and gets the magnitude down but tends to set phase to zero to average error, i will be (hopefully) improving the model in the next weeks. at that time, the model will be different and previous .dat files will not be compatible, but itm you can get some jangly high frequencies out of your riffusion recordings to EQ. i doubt the quality will ever be super good but we'll see how far i can get with this technique.
 
 beware: the remove loops function is real slow. use short files.
 
